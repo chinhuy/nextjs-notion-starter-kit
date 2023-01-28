@@ -12,6 +12,7 @@ export default siteConfig({
   name: 'Uy Pham site',
   domain: 'phamchinhuy.info',
   author: 'Uy Pham',
+  copyright: 'Copyright 2023',
 
   // open graph metadata (optional)
   description: 'Uy Pham site',
